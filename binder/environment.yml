@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - sourmash > 2.3.1, < 4
+  - screed
+  - matplotlib
+  - pandas
